@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-#### This is Naaresh
+#### This is Naresh
 
 - 🔭 I’m currently working OpenMRS android client
 - 🌱 I’m currently learning android development
