@@ -21,11 +21,12 @@
 <p align="left">
 <a href="https://twitter.com/nareshchandanb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nareshchandanb1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/naresh-chandanbatve-b115a4212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naresh-chandanbatve-b115a4212" height="30" width="40" /></a>
-<a href="https://instagram.com/naresh_chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh_chandanbatve" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/naresh_java" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naresh_java" height="30" width="40" /></a>
+<a href="https://instagram.com/naresh_chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh_chandanbatve" height="30" width="40" /></a> 
+  &nbsp; &nbsp; &nbsp;
+<a href="https://www.codechef.com/users/naresh_java" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="naresh_java" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naresh chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naresh chandanbatve" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naresh-chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naresh-chandanbatve" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@naresh chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@naresh chandanbatve" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@chandanbatven" target="blank"><img align="center" src="https://www.itvoice.in/wp-content/uploads/2021/08/HackerEarth-logo.png" alt="@naresh chandanbatve" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
