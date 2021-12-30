@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
 <h3 align="center">I am second year Undergraduate student exploring the beauty of open source and learning new technologies</h3>
 <br>
-<h3 align="left">HackerRank 5 star⭐| HackerEarth 3 star⭐</h3>
+<h3 align="left">HackerRank 5⭐ | HackerEarth 3⭐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-chandanbatve&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-chandanbatve" /> </p>
 
