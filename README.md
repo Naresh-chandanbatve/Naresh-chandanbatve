@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android development , java and git**
 
-- 📫Any query just mail me here **chandanbatven@gmail.com**
+- 📫Any query or want help just mail me here **chandanbatven@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
