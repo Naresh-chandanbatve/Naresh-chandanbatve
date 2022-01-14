@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naresh</h1>
+<h1 align="center">Hi 
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />, I'm Naresh</h1>
 <h3 align="center">I am second year Undergraduate student exploring the beauty of open source and learning new technologies</h3>
 <br>
 <h3 align="left">HackerRank 5⭐ | HackerEarth 3⭐</h3>
