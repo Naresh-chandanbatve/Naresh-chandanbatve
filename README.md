@@ -39,5 +39,5 @@
 <br>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naresh-chandanbatve&show_icons=true&locale=en&theme=algolia" alt="naresh-chandanbatve" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-chandanbatve&theme=algolia" alt="naresh-chandanbatve" /></p>
