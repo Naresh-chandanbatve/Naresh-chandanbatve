@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-chandanbatve&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-chandanbatve" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naresh-chandanbatve" alt="naresh-chandanbatve" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/nareshchandanb1" target="blank"><img src="https://img.shields.io/twitter/follow/nareshchandanb1?logo=twitter&style=for-the-badge" alt="nareshchandanb1" /></a> </p>
 
