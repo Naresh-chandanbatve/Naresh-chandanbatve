@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Android development and DSA**
 
-- 💬 Ask me about **Android development , java and git**
+- 💬 Ask me about **java and git**
 
 - 📫Any query or want help just mail me here **chandanbatven@gmail.com**
 
