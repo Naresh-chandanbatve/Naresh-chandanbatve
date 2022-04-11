@@ -12,7 +12,7 @@
 
 <!-- - 🔭 I’m currently working on **To Do List app with extra features** -->
 
-- 🌱 I’m currently learning **Android development and DSA**
+- 🌱 I’m currently learning **Flutter development and DSA**
 
 - 💬 Ask me about **java and git**
 
