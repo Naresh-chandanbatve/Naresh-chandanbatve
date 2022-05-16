@@ -4,7 +4,8 @@
 <br>
 <h3 align="left">HackerRank 5⭐ | HackerEarth 3⭐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-chandanbatve&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-chandanbatve" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh-chandanbatve&label=Profile%20views&color=0e75b6&style=flat" alt="naresh-chandanbatve" /> </p> -->
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
