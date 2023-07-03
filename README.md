@@ -74,7 +74,7 @@
 
 ## 📑 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [How to containerize the MERN stack application using Docker](https://nareshblogs.hashnode.dev/how-to-containerize-the-mern-stack-application-using-docker)
 <!-- BLOG-POST-LIST:END --> 
 <br>
 
