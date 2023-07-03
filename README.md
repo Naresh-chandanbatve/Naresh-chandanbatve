@@ -14,7 +14,8 @@
 
 - ❤️‍🔥A passionate Self-taught DevOps Engineer
 - 🖐️Open Source enthusiast
-- 🤔Currently exploring and learning DevOps tools.
+- 🤔Currently exploring and learning DevOps tools
+- 👨‍💻MERN stack developer
 - 📫Any query or want help just connect me on any social link below
 
 <br><br>
