@@ -72,6 +72,12 @@
 
 <br>
 
+## 📑 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
+<br>
+
 ##  My GitHub Stats
 
 | ![Naresh's github stats](https://github-readme-stats.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&theme=tokyonight) | ![Naresh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naresh-chandanbatve&theme=tokyonight) |
