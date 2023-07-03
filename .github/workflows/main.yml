@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+ schedule: # Run workflow automatically
+   - cron: '0 23 * * *' 
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+ workflow_dispatch: 
+jobs:
+ update-readme-with-blog:
+   name: Update this repo's README with latest blog posts
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         # Replace this URL with your rss feed URL/s
+         feed_list: "https://nareshblogs.hashnode.dev/rss.xml"
