@@ -43,6 +43,7 @@
     <a href="https://devpost.com/Naresh-chandanbatve" target="blank"><img align="center" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="naresh_chandanbatve" height="30" width="30" /></a> 
     <a href="[https://www.showwcase.com/naresh-chandanbatve](https://www.youtube.com/channel/UCnv12OYNMurB7UnLObLa0lg)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="naresh_chandanbatve" height="30" width="45" /></a> 
     <a href="https://www.showwcase.com/naresh-chandanbatve" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633947271222/I2p2TQngn.png" alt="naresh_chandanbatve" height="30" width="45" /></a> 
+    <a href="https://linkfree.io/Naresh-chandanbatve" target="blank"><img align="center" src="https://linkfree.io/_next/image?url=%2Flogo192.png&w=32&q=75" alt="naresh_chandanbatve" height="30" width="45" /></a> 
   
 </p>
 
