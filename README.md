@@ -36,8 +36,8 @@
 <br>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://twitter.com/nareshchandanb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nareshchandanb1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naresh-chandanbatve/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naresh-chandanbatve-b115a4212" height="30" width="40" /></a>
+<a href="https://twitter.com/nareshchandanb1" target="blank"><img align="center" src="https://img.shields.io/badge/-@nareshchandanb1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="nareshchandanb1" /></a>
+<a href="https://www.linkedin.com/in/naresh-chandanbatve/" target="blank"><img align="center" src="https://img.shields.io/badge/naresh-chandanbatve-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/naresh-chandanbatve-b115a4212" /></a>
 <a href="https://instagram.com/naresh_chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh_chandanbatve" height="30" width="40" /></a> 
 <a href="[https://instagram.com/naresh_chandanbatve](https://stackoverflow.com/users/18366548/naresh-chandanbatve)" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-stackoverflow-4555866_121359.png" alt="naresh_chandanbatve" height="30" width="30" /></a> 
     <a href="https://devpost.com/Naresh-chandanbatve" target="blank"><img align="center" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="naresh_chandanbatve" height="30" width="30" /></a> 
