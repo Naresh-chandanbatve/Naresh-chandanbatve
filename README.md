@@ -76,6 +76,7 @@
 
 ## 📑 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a MERN stack Application on Kubernetes using Minikube](https://nareshblogs.hashnode.dev/deploy-a-mern-stack-application-on-kubernetes-using-minikube)
 - [Boost Performance: Optimizing Docker Image Size in MERN Apps using Multistage Dockerfile](https://nareshblogs.hashnode.dev/optimizing-docker-image-size-in-mern-apps-using-multistage-dockerfile)
 - [How to containerize the MERN stack application using Docker](https://nareshblogs.hashnode.dev/how-to-containerize-the-mern-stack-application-using-docker)
 <!-- BLOG-POST-LIST:END --> 
