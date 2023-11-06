@@ -83,11 +83,6 @@
 <br>
 
 
-Developed the complete backend for the app using NodeJS.
-Developed auth routes, CRUD routes for building teams and ideas feature also chat Interface and routes for communication.
-Integrated frontend pages with backend, Integrated Firebase. 
-
-
 ## 🖥️ My Projects
 
 | <a href="https://github.com/UBA-GCOEN/ARrow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=UBA-GCOEN&repo=ARrow&theme=tokyonight" /> </a> <br><br> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Developed Routes for auth, Google auth, profile edit, Events and Notifications.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul> <br><br><br> | <a href="https://github.com/UBA-GCOEN/StichHub"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=UBA-GCOEN&repo=StichHub&theme=tokyonight" /> </a> <ul align="left"><li> Mentored and was project admin for the project in GSSoC23.</li> <li>have helped many contributors to the project in frontend, backend, and other types of contributions. </li> <li>Built CI-CD pipeline to build and push Image to Docker Hub. </li> <li>Built GitHub Actions workflow to automate collaboration. </li> <li>have developed frontend of tailor dashboard and tailor lists. </li></ul> |
