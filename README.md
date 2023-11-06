@@ -36,40 +36,42 @@
 <br>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://twitter.com/nareshchandanb1" target="blank"><img align="center" src="https://img.shields.io/badge/-@nareshchandanb1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="nareshchandanb1" /></a>
+<a href="https://twitter.com/nareshchandanb1" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="nareshchandanb1" /></a>
 <a href="https://www.linkedin.com/in/naresh-chandanbatve/" target="blank"><img align="center" src="https://img.shields.io/badge/naresh-chandanbatve-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/naresh-chandanbatve-b115a4212" /></a>
-<a href="https://instagram.com/naresh_chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh_chandanbatve" height="30" width="40" /></a> 
-<a href="[https://instagram.com/naresh_chandanbatve](https://stackoverflow.com/users/18366548/naresh-chandanbatve)" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-stackoverflow-4555866_121359.png" alt="naresh_chandanbatve" height="30" width="30" /></a> 
-    <a href="https://devpost.com/Naresh-chandanbatve" target="blank"><img align="center" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="naresh_chandanbatve" height="30" width="30" /></a> 
-    <a href="[https://www.showwcase.com/naresh-chandanbatve](https://www.youtube.com/channel/UCnv12OYNMurB7UnLObLa0lg)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="naresh_chandanbatve" height="30" width="45" /></a> 
+<a href="https://instagram.com/naresh_chandanbatve" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="naresh_chandanbatve" /></a> 
+<a href="https://stackoverflow.com/users/18366548/naresh-chandanbatve" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="naresh_chandanbatve" /></a> 
+    <a href="https://devpost.com/Naresh-chandanbatve" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="naresh_chandanbatve" /></a> 
+    <a href="https://www.youtube.com/channel/UCnv12OYNMurB7UnLObLa0lg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="naresh_chandanbatve" /></a> 
     <a href="https://www.showwcase.com/naresh-chandanbatve" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633947271222/I2p2TQngn.png" alt="naresh_chandanbatve" height="30" width="45" /></a> 
-    <a href="https://linkfree.io/Naresh-chandanbatve" target="blank"><img align="center" src="https://linkfree.io/_next/image?url=%2Flogo192.png&w=32&q=75" alt="naresh_chandanbatve" height="30" width="45" /></a> 
+    <a href="https://biodrop.io/Naresh-chandanbatve" target="blank"><img align="center" src="https://biodrop.io/_next/image?url=%2Flogo192.png&w=32&q=75" alt="naresh_chandanbatve" height="30" width="45" /></a> 
   
 </p>
 
 <br>
 <h3 align="center">🖥️ Coding profiles</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/naresh_java" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="naresh_java" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/naresh chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naresh chandanbatve" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naresh-chandanbatve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naresh-chandanbatve" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@chandanbatven" target="blank"><img align="center" src="https://www.itvoice.in/wp-content/uploads/2021/08/HackerEarth-logo.png" alt="@naresh chandanbatve" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/naresh_java" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="naresh_java" /></a>
+<a href="https://www.hackerrank.com/naresh chandanbatve" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="naresh chandanbatve" /></a>
+<a href="https://www.leetcode.com/naresh-chandanbatve" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="naresh-chandanbatve" /></a>
+<a href="https://www.hackerearth.com/@chandanbatven" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@naresh chandanbatve" /></a>
 
 </p>
 <br>
 
 <h3 align="center">👨‍💻 Languages and Tools</h3>
-<p align="center"> <a target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="45" height="40"/> </a> 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg" alt="k8s" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="ReactJS" width="40" height="40"/> </a>   
-<a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-640x400.png" alt="MongoDB" width="60" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" alt="Linux" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/66-667065_js-club-new-balance-png-logo-node-js.png" alt="node.js" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </a> 
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </a>   
+<a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> </a> 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" /> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" /> </a>
 </p>
 
 <br>
