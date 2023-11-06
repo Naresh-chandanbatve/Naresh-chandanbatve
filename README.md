@@ -15,10 +15,10 @@
 
 - ❤️‍🔥A passionate Self-taught DevOps Engineer
 - 🖐️Open Source enthusiast
-- 🤔Currently exploring and learning DevOps tools
-- 👨‍💻MERN stack developer
+- 🤔Currently exploring and learning DevOps tools and technologies
+- 👨‍💻NodeJS Backend Developer
 - 📫Any query or want help just ping me on chandanbatven@gmail.com
-- ✍️blogs related to DevOps, Cloud Native, Linux, MERN stack at https://nareshblogs.hashnode.dev
+- ✍️blogs related to DevOps, Cloud Native, Linux, Backend Development at https://nareshblogs.hashnode.dev
 <br><br>
 ## Trophies
 
