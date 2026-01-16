@@ -3,26 +3,24 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+DevOps-Engineer,;Computer+Science+Student,;Open+Source+Enthusiast.;"></a>
 </p>
 
-### profile visits
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "http://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width = 20px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
 
-- ❤️‍🔥A passionate Self-taught DevOps Engineer
-- 🖐️Open Source enthusiast
+DevOps Engineer with 1.5+ years of hands-on production experience building, deploying, and operating cloud-native systems on AWS.
+
+- Rebuilt CI/CD pipelines using GitHub Actions and integrated Trivy scanning to secure and speed up our deployment workflows.
+- Implemented monitoring with Prometheus, Grafana & Loki
+- Managed production PostgreSQL, backups, alerts, and uptime
+- Strong Linux, networking, and debugging experience
 - 🤔Currently exploring and learning DevOps tools and technologies
-- 👨‍💻NodeJS Backend Developer
-- 📫Any query or want help just ping me on chandanbatven@gmail.com
-- ✍️blogs related to DevOps, Cloud Native, Linux, Backend Development at https://nareshblogs.hashnode.dev
+- 📫Any query or want help just ping me at chandanbatven@gmail.com
+- ✍️blogs related to DevOps, Cloud Native, Linux at https://nareshblogs.hashnode.dev
 <br><br>
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fast.vercel.app/?username=naresh-chandanbatve&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -78,18 +76,18 @@
 
 ## 📑 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a MERN stack Application on Kubernetes using Minikube](https://nareshblogs.hashnode.dev/deploy-a-mern-stack-application-on-kubernetes-using-minikube)
 - [Boost Performance: Optimizing Docker Image Size in MERN Apps using Multistage Dockerfile](https://nareshblogs.hashnode.dev/optimizing-docker-image-size-in-mern-apps-using-multistage-dockerfile)
 - [How to containerize the MERN stack application using Docker](https://nareshblogs.hashnode.dev/how-to-containerize-the-mern-stack-application-using-docker)
+- [Deploy a MERN stack Application on Kubernetes using Minikube](https://nareshblogs.hashnode.dev/deploy-a-mern-stack-application-on-kubernetes-using-minikube)
 <!-- BLOG-POST-LIST:END --> 
 <br>
 
 
 ## 🖥️ My Projects
 
-| <a href="https://github.com/UBA-GCOEN/ARrow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=UBA-GCOEN&repo=ARrow&theme=tokyonight" /> </a> <br><br> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Developed Routes for auth, Google auth, profile edit, Events and Notifications.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul> <br><br><br> | <a href="https://github.com/UBA-GCOEN/StichHub"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=UBA-GCOEN&repo=StichHub&theme=tokyonight" /> </a> <ul align="left"><li> Mentored and was project admin for the project in GSSoC23.</li> <li>have helped many contributors to the project in frontend, backend, and other types of contributions. </li> <li>Built CI-CD pipeline to build and push Image to Docker Hub. </li> <li>Built GitHub Actions workflow to automate collaboration. </li> <li>have developed frontend of tailor dashboard and tailor lists. </li></ul> |
+| <a href="https://github.com/UBA-GCOEN/ARrow"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UBA-GCOEN&repo=ARrow&theme=tokyonight" /> </a> <br><br> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Developed Routes for auth, Google auth, profile edit, Events and Notifications.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul> <br><br><br> | <a href="https://github.com/UBA-GCOEN/StichHub"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UBA-GCOEN&repo=StichHub&theme=tokyonight" /> </a> <ul align="left"><li> Mentored and was project admin for the project in GSSoC23.</li> <li>have helped many contributors to the project in frontend, backend, and other types of contributions. </li> <li>Built CI-CD pipeline to build and push Image to Docker Hub. </li> <li>Built GitHub Actions workflow to automate collaboration. </li> <li>have developed frontend of tailor dashboard and tailor lists. </li></ul> |
 | --- | --- |
-| <a href="https://github.com/web-contribution-DWOC/Team-Builder"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=web-contribution-DWOC&repo=Team-Builder&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the app using NodeJS.</li> <li>Developed auth routes, CRUD routes for building teams and ideas feature also chat Interface and routes for communication.</li> <li>Integrated frontend pages with backend, Integrated Firebase. </li> </ul> | <a href="https://github.com/Siddhant-Patil0203/ReLive"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhant-Patil0203&repo=ReLive&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, mongoose etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul>|
+| <a href="https://github.com/web-contribution-DWOC/Team-Builder"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=web-contribution-DWOC&repo=Team-Builder&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the app using NodeJS.</li> <li>Developed auth routes, CRUD routes for building teams and ideas feature also chat Interface and routes for communication.</li> <li>Integrated frontend pages with backend, Integrated Firebase. </li> </ul> | <a href="https://github.com/Siddhant-Patil0203/ReLive"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Siddhant-Patil0203&repo=ReLive&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, mongoose etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul>|
 
 
 <br>
