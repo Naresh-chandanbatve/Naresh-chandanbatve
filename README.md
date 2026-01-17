@@ -10,13 +10,14 @@
 
 DevOps Engineer with 1.5+ years of hands-on production experience building, deploying, and operating cloud-native systems on AWS.
 
-- Rebuilt CI/CD pipelines using GitHub Actions and integrated Trivy scanning to secure and speed up our deployment workflows.
-- Implemented monitoring with Prometheus, Grafana & Loki
-- Managed production PostgreSQL, backups, alerts, and uptime
-- Strong Linux, networking, and debugging experience
-- 🤔Currently exploring and learning DevOps tools and technologies
-- 📫Any query or want help just ping me at chandanbatven@gmail.com
-- ✍️blogs related to DevOps, Cloud Native, Linux at https://nareshblogs.hashnode.dev
+- 🛠️Built CI/CD pipelines using GitHub Actions and integrated Trivy scanning to secure and speed up deployment workflows.
+- 📈Developed and maintained monitoring and alerting systems using Prometheus, Grafana, and Loki achieving
+99.98% uptime
+- 💾Architected automated PostgreSQL backup strategies with Point-In-Time Recovery (PITR) using pgBackRest and AWS S3, ensuring zero data loss and validated by regular restore drills.
+- 🌐Strong Linux, networking, and debugging experience
+- 🤔Love solving interesting Engineering challenges
+- 📫reach me out at chandanbatven@gmail.com
+- ✍️blogs related to Cloud Native system and Linux at https://nareshblogs.hashnode.dev
 <br><br>
 ## Trophies
 
@@ -85,7 +86,7 @@ DevOps Engineer with 1.5+ years of hands-on production experience building, depl
 
 ## 🖥️ My Projects
 
-| <a href="https://github.com/UBA-GCOEN/ARrow"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UBA-GCOEN&repo=ARrow&theme=tokyonight" /> </a> <br><br> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Developed Routes for auth, Google auth, profile edit, Events and Notifications.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul> <br><br><br> | <a href="https://github.com/UBA-GCOEN/StichHub"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UBA-GCOEN&repo=StichHub&theme=tokyonight" /> </a> <ul align="left"><li> Mentored and was project admin for the project in GSSoC23.</li> <li>have helped many contributors to the project in frontend, backend, and other types of contributions. </li> <li>Built CI-CD pipeline to build and push Image to Docker Hub. </li> <li>Built GitHub Actions workflow to automate collaboration. </li> <li>have developed frontend of tailor dashboard and tailor lists. </li></ul> |
+| <a href="https://github.com/Naresh-chandanbatve/eks-terraform"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Naresh-chandanbatve&repo=eks-terraform&theme=tokyonight" /> </a> <br><br> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Developed Routes for auth, Google auth, profile edit, Events and Notifications.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul> <br><br><br> | <a href="https://github.com/UBA-GCOEN/StichHub"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UBA-GCOEN&repo=StichHub&theme=tokyonight" /> </a> <ul align="left"><li> Mentored and was project admin for the project in GSSoC23.</li> <li>have helped many contributors to the project in frontend, backend, and other types of contributions. </li> <li>Built CI-CD pipeline to build and push Image to Docker Hub. </li> <li>Built GitHub Actions workflow to automate collaboration. </li> <li>have developed frontend of tailor dashboard and tailor lists. </li></ul> |
 | --- | --- |
 | <a href="https://github.com/web-contribution-DWOC/Team-Builder"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=web-contribution-DWOC&repo=Team-Builder&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the app using NodeJS.</li> <li>Developed auth routes, CRUD routes for building teams and ideas feature also chat Interface and routes for communication.</li> <li>Integrated frontend pages with backend, Integrated Firebase. </li> </ul> | <a href="https://github.com/Siddhant-Patil0203/ReLive"> <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Siddhant-Patil0203&repo=ReLive&theme=tokyonight" /> </a> <ul align="left"><li> Developed the complete backend for the Application in NodeJS.</li> <li>Integrated libraries like jsonwebtoken, bcrypt, nodemailer, mongoose etc. </li> <li> Integrated MongoDB Database to the Backend.</li> </ul>|
 
@@ -94,9 +95,9 @@ DevOps Engineer with 1.5+ years of hands-on production experience building, depl
 
 ##  My GitHub Stats
 
-| ![Naresh's github stats](https://github-readme-stats.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&theme=tokyonight) | ![Naresh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naresh-chandanbatve&theme=tokyonight) |
+| ![Naresh's github stats](https://github-readme-stats-fast.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.vercel.app?user=Naresh-chandanbatve&theme=tokyonight)](https://git.io/streak-stats) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-chandanbatve&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naresh-chandanbatve&theme=tokyonight&hide=html,css,scss,java,javascript,php) | ![Github Stars](https://github-readme-stats-fast.vercel.app/api?username=Naresh-chandanbatve&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Naresh-chandanbatve&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /> |
 
