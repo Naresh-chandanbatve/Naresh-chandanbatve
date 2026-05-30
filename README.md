@@ -7,7 +7,7 @@
 
 <br>
 
-DevOps Engineer with 1.5 years of experience building and operating cloud-native systems on AWS.
+DevOps Engineer with 2 years of experience building and operating cloud-native systems on AWS.
 
 - Built CI/CD pipelines using GitHub Actions
 - Implemented monitoring using Prometheus, Grafana, Loki
