@@ -87,11 +87,11 @@ DevOps Engineer with 2 years of experience building and operating cloud-native s
 ## 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Boost Performance: Optimizing Docker Image Size in MERN Apps using Multistage Dockerfile](https://nareshblogs.hashnode.dev/optimizing-docker-image-size-in-mern-apps-using-multistage-dockerfile)
-- [How to containerize the MERN stack application using Docker](https://nareshblogs.hashnode.dev/how-to-containerize-the-mern-stack-application-using-docker)
+- [Raft Consensus Algorithm](https://nareshblogs.hashnode.dev/raft-consensus-algorithm-explained)
 - [Deploy a MERN stack Application on Kubernetes using Minikube](https://nareshblogs.hashnode.dev/deploy-a-mern-stack-application-on-kubernetes-using-minikube)
-  <!-- BLOG-POST-LIST:END -->
+- [Optimizing Docker Image Size in MERN Apps using Multistage Dockerfile](https://nareshblogs.hashnode.dev/optimizing-docker-image-size-in-mern-apps-using-multistage-dockerfile)
+- [How to containerize the MERN stack application using Docker](https://nareshblogs.hashnode.dev/how-to-containerize-the-mern-stack-application-using-docker)
+<!-- BLOG-POST-LIST:END -->
   <br>
 
 ## 🖥️ My Projects
